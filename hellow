@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main()
+{
+  printf("Welcome DDJK!");
+  return 0;
+ }
